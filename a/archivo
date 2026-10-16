@@ -1,4 +1,5 @@
 linea 01 del archivo 01
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 la linea 2 del archivo01 hecha en local
 =======
@@ -6,3 +7,7 @@ linea 2del archivo 01 hecha en remoto
 >>>>>>> 677bbb06f82739782b571adf248d7525202115d1
 
 linea 4 hecha en el remoto
+=======
+la linea 2 del archivo01 hecha en localsa
+linea 4 hecha en local
+>>>>>>> Stashed changes
